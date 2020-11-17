@@ -1,1 +1,1 @@
-console.log(2)g
+console.log(2)
